@@ -13,9 +13,14 @@ Moreover, the data is based on weather observations from 18 different weather st
 with data ranging from the late 1800s to 2022. Recordings exist for almost every day with values such as
 temperature, wind speed, snow, global radiation and more.
 
+The following 2 data sets were used for the training of the machine learning models:
 
-
+- Dataset weather prediction processed
+- Dataset answers pleasant weather
 
 # Tools
+For this project, the following python libraries were used:
+
+
 
 # Executing the Code
