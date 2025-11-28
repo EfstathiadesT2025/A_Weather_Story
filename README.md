@@ -21,6 +21,32 @@ The following 2 data sets were used for the training of the machine learning mod
 # Tools
 For this project, the following python libraries were used:
 
-
+pandas as pd
+numpy as np
+seaborn as sns
+matplotlib
+matplotlib.pyplot as plt
+os
+sklearn
+from sklearn.preprocessing StandardScaler
+from sklearn datasets
+from sklearn metrics
+from sklearn.model_selection train_test_split
+from sklearn.metrics multilabel_confusion_matrix, accuracy_score, confusion_matrix, ConfusionMatrixDisplay
+from sklearn.neighbors KNeighborsClassifier
+plotly.express as px
+from mpl_toolkits mplot3d
+from plotly.offline download_plotlyjs, init_notebook_mode
+from plotly.offline plot, iplot
+plotly.graph_objects as go
+operator
+matplotlib.pyplot as plt
+graphviz
+from sklearn tree
+from sklearn.model_selection cross_val_score
+from sklearn.tree DecisionTreeClassifier
+from matplotlib.pyplot figure
+from sklearn.neural_network MLPClassifier
 
 # Executing the Code
+
