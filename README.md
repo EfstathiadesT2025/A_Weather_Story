@@ -49,4 +49,4 @@ For this project, the following python libraries were used:
 - from sklearn.neural_network MLPClassifier
 
 # Executing the Code
-The code is available as jupyter notebooks, [Open Scripts Folder on OneDrive](C:\Users\thoma\OneDrive\Dokumente\data analytics\ML_Ach1\ClimateWins\Scripts)
+The code is available as jupyter notebooks, [Open Scripts Folder on OneDrive](https://1drv.ms/f/c/68518651159bb850/IgBrxIpuy9goSbOlTMEJekSyAdQF1HwjROYQUlsAPqCp9Bo?e=r6nQLy))
