@@ -52,4 +52,4 @@ For this project, the following python libraries were used:
 The code is available as jupyter notebooks, open the scripts folder [here](Scripts)
 
 # Final Presentation
-Access the final presentation for this project [here]()
+Access the final presentation for this project [here](https://github.com/EfstathiadesT2025/A_Weather_Story/blob/main/Sent%20to%20client/Final%20Pres_Weather%20Project_Ach%201_ML.pdf)
