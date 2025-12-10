@@ -52,4 +52,4 @@ For this project, the following python libraries were used:
 The code is available as jupyter notebooks, open the scripts folder [here](Scripts)
 
 # Final Presentation
-Access the final presentation for this project [here]("https:\\Users\thoma\OneDrive\Dokumente\data analytics\ML_Ach1\ClimateWins\Sent to client\Final Pres_Weather Project_Ach 1_ML.pdf")
+Access the final presentation for this project [here]("C:\Users\thoma\OneDrive\Dokumente\data analytics\ML_Ach1\ClimateWins\Sent to client\Final Pres_Weather Project_Ach 1_ML.pdf")
